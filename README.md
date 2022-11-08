@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @taracoley.
-- 👀 I’m a product managemer.
+- 👀 I’m a product manager.
 - 🌱 I’m currently learning API development
 - 💞️ I enjoy collaborating and moving nimbly to produce product solutions.
 - 📫 How to reach me: taracoley@hotmail.com
