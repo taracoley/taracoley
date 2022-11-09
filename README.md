@@ -13,17 +13,14 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **taracoley@hotmail.com**
 
-- ⚡ Fun fact **I like geocaching and the outdoors**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NKm4Fc7DFK6ZNB0ZgrLKzTTwF7O4Mvfd/view?usp=sharing](https://drive.google.com/file/d/1NKm4Fc7DFK6ZNB0ZgrLKzTTwF7O4Mvfd/view?usp=sharing)
 
--Direct link to resume is here: [Tara Coley Resume'](https://drive.google.com/file/d/1NKm4Fc7DFK6ZNB0ZgrLKzTTwF7O4Mvfd/view?usp=sharing)
+- ⚡ Fun fact **I like geocaching and the outdoors**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@tara_leshea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tara_leshea" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/taracoley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taracoley" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100009627760284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009627760284" height="30" width="40" /></a>
-<a href="https://instagram.com/tsheathe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tsheathe1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uco3pb3c1faiobokinu-xu5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uco3pb3c1faiobokinu-xu5g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
