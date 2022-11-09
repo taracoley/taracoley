@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **taracoley@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NKm4Fc7DFK6ZNB0ZgrLKzTTwF7O4Mvfd/view?usp=sharing](https://drive.google.com/file/d/1NKm4Fc7DFK6ZNB0ZgrLKzTTwF7O4Mvfd/view?usp=sharing)
+- 📄 Know about my experiences [Tara Coley Resume'](https://drive.google.com/file/d/1NKm4Fc7DFK6ZNB0ZgrLKzTTwF7O4Mvfd/view?usp=sharing)
 
 - ⚡ Fun fact **I like geocaching and the outdoors**
 
