@@ -15,6 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **I like geocaching and the outdoors**
 
+-Direct link to resume is here:https://drive.google.com/file/d/1NKm4Fc7DFK6ZNB0ZgrLKzTTwF7O4Mvfd/view?usp=sharing
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@tara_leshea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tara_leshea" height="30" width="40" /></a>
